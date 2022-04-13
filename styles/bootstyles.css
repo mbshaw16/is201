@@ -1,0 +1,25 @@
+h2 {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 24px; 
+    color: royalblue;
+  }
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 32px;
+        color: whitesmoke;
+    }
+    
+    span {
+    font-size: 17px;
+    font-style: italic;
+    }
+  
+    li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+  
+    }
